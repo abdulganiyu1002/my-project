@@ -1,1 +1,9 @@
-dfghjkasafdcgvbhnjkmhjnm
+AIMS
+Develop a user-friendly Crypto Trading Platform with an intuitive interface. Usability in crypto trading platforms is a crucial factor affecting user engagement and adoption. According to research by Anderson et al. (2019), a user-friendly interface significantly impacts users' ability to navigate the platform effectively. Our aim is to design an intuitive interface using React.js that caters to both novice and experienced traders, enhancing the overall user experience.
+
+OBJECTIVES
+i.	 To design and implement a treading platform that allows user to place trades and make profit or loss.
+ii.	 To develop a robust backend system using Node.js, incorporating core trading functionalities.
+iii. To integrate with cryptocurrency exchanges and market data providers for real-time data updates.
+iv.	 To implement secure user authentication and authorization mechanisms.
+v.	 To design a software that allow users to withdraw their balance.
