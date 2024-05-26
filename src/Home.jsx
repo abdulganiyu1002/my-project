@@ -1,3 +1,6 @@
+
+
+
 // src/pages/Home.js
 import React from 'react';
 import './Home.css'; // Assuming you'll be adding some CSS for styling
