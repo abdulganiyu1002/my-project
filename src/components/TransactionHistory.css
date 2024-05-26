@@ -1,0 +1,14 @@
+.transaction-history {
+  background-color: #f8f9fb;
+  padding: 50px 0;
+}
+
+.transaction-history .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.transaction-history h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,14 @@
+.account-summary {
+  background-color: #f8f9fb;
+  padding: 50px 0;
+}
+
+.account-summary .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.account-summary h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}

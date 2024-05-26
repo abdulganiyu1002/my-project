@@ -1,0 +1,14 @@
+.analytics-dashboard {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.analytics-dashboard .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.analytics-dashboard h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}

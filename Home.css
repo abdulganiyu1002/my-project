@@ -1,0 +1,98 @@
+/* src/pages/Home.css */
+.home-container {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #1a1a1a;
+}
+
+.navbar-logo img {
+  height: 40px;
+}
+
+.navbar-links {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-actions .btn-login,
+.navbar-actions .btn-signup {
+  background-color: #f0b90b;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.hero-section {
+  background-image: url('/path/to/hero-background.jpg');
+  background-size: cover;
+  color: white;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 2.5em;
+}
+
+.hero-content p {
+  font-size: 1.2em;
+}
+
+.btn-cta {
+  background-color: #f0b90b;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.market-highlights,
+.features-section {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.market-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.market-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.feature {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.footer {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

@@ -1,0 +1,62 @@
+/* src/Header.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e2329;
+  padding: 10px 20px;
+  color: #ffffff;
+}
+
+.header-logo img {
+  height: 15px; /* Adjust the height value to make the logo smaller */
+}
+
+.header-nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header-nav ul li {
+  margin: 0 15px;
+}
+
+.header-nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header-nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.header-profile {
+  display: flex;
+  align-items: center;
+}
+
+.notifications {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.notifications i {
+  font-size: 20px;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-name {
+  margin-right: 10px;
+}
+
+.user-avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}

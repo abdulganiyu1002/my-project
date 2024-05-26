@@ -1,0 +1,14 @@
+.trading-charts {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.trading-charts .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.trading-charts h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
